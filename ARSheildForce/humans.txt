@@ -1,0 +1,21 @@
+/* TEAM */
+    Title: CryEngine Web Department
+    Site: https://www.cryengine.com
+    Location: Frankfurt am Main, Germany.
+
+	Technical/Team Lead: Andrii Afanasiev
+	Full-stack Web developer: Jose Emmanuel De Gouveia Sosa
+	Full-stack Web developer: Dmitrii Savelev
+	Senior DevOps: Alexander Ursu
+	UI/UX designer: Sean Kiely
+	Project manager: Tatyana Lipnitskaya
+	QA Lead: Can Pak
+	QA: Iryna Voloshynova
+
+/* THANKS */
+    Everyone who is doing such beautiful and flexible tools for development and use.
+
+
+/* SITE */
+    Components: BackboneJS, ReactJS, VanillaJS, CSS3, HTML5
+    Software: PHP8, PHP7, Nginx, Docker, GitLab

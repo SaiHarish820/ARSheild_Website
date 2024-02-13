@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>CRYENGINE</ShortName>
+    <Description>The complete solution for next generation game development by Crytek</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <OutputEncoding>UTF-8</OutputEncoding>
+
+    <Image height="16" width="16" type="image/x-icon">https://www.cryengine.com/favicon.ico</Image>
+    <Image height="16" width="16" type="image/vnd.microsoft.icon">https://www.cryengine.com/favicon.ico</Image>
+    <Image height="16" width="16" type="image/png">https://www.cryengine.com/favicon-16x16.png</Image>
+    <Image height="32" width="32" type="image/png">https://www.cryengine.com/favicon-32x32.png</Image>
+
+    <Tags>CryEngine development</Tags>
+
+    <Url type="text/html" method="GET" template="https://www.cryengine.com/search?q={searchTerms}" />
+
+    <Query role="example" searchTerms="cryengine" />
+
+    <Developer>Crytek GmbH</Developer>
+    <Attribution>
+        Copyright 2024, Crytek GmbH, All Rights Reserved
+    </Attribution>
+
+    <SyndicationRight>open</SyndicationRight>
+    <AdultContent>false</AdultContent>
+    <Language>en-us</Language>
+</OpenSearchDescription>
